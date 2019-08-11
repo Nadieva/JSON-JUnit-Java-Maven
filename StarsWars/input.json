@@ -1,0 +1,30 @@
+
+[
+    {
+        "birthYear": "41.9BBY",
+        "gender": "male",
+        "height": 188,
+        "id": 123,
+        "name": "Anakin Skywalker"
+    },
+    {
+        "birthYear": "64BBY",
+        "gender": "male",
+        "height": 180,
+        "id": 456,
+        "name": "Wilhuff Tarkin"
+    },
+    {
+        "birthYear": "200BBY",
+        "gender": "male",
+        "height": 228,
+        "id": 789,
+        "name": "Chewbacca"
+    },
+    {
+        "birthYear": "44BBY",
+        "gender": "male",
+        "id": 111,
+        "name": "Greedo"
+    }
+]
